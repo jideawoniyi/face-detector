@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Apr  6 02:10:56 2023
+
+@author: Jide Awoniyi
+"""
+
 import cv2
 import dlib
 import numpy as np

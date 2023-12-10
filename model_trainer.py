@@ -3,7 +3,7 @@
 """
 Created on Thu Apr  6 02:10:56 2023
 
-@author: Smartsys
+@author: Jide Awoniyi
 """
 
 import numpy as np
